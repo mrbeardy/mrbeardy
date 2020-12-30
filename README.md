@@ -6,9 +6,9 @@
 ![](https://img.shields.io/badge/Status-Finished-green.svg)
 ![](https://img.shields.io/badge/Project%20released%3F-Not%20yet-orange.svg)
 
-[![](https://media.giphy.com/media/PeNZvOboV4XyScTD2W/giphy.gif)](https://www.youtube.com/watch?v=hQBMqvPvkPM)
+[![](https://raw.githubusercontent.com/mrbeardy/mrbeardy/main/gifs/anni.gif)](https://www.youtube.com/watch?v=hQBMqvPvkPM)
 
-![](https://giphy.com/embed/PeNZvOboV4XyScTD2W)
+![](https://raw.githubusercontent.com/mrbeardy/mrbeardy/main/gifs/anni.gif)
 
 Anni is a short story-game I created as a One-year anniversary present for my Girlfriend. 
 
