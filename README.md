@@ -41,6 +41,19 @@ I was trying to give a feel for what it's like to speed-run, where players play 
 
 I had plans to add multiple levels to the game, but ran short on time (#irony). I'm still proud of the end result, and I feel like I've created a vertical-slice that can be expanded in the future if I ever decide to come back to the concept.
 
+## Defuse 
+
+![](https://img.shields.io/badge/Status-On%20hold-orange.svg)
+![](https://img.shields.io/badge/Project%20released%3F-Not%20yet-orange.svg)
+
+![](https://raw.githubusercontent.com/mrbeardy/mrbeardy/main/gifs/defuse.gif)
+
+Defuse was a remake of Keep Talking and Nobody Explodes. I started the project after thinking of some games that we could play as a team before retrospectives at On the Beach.
+
+In the end, I got something playable with a Simon Says and a Symbols module. The plan was to open-source it, but currently the logic in the remake works alongside the manual from the original game.
+
+My end goal for this is it to clean up what I have and open source it, and then come back to this concept in the future with a new and unique game that isn't tied to Keep Talking.
+
 ## Map System
 ![](https://img.shields.io/badge/Status-On%20hold-orange.svg)
 ![](https://img.shields.io/badge/Project%20released%3F-Not%20yet-orange.svg)
