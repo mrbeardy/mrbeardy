@@ -27,7 +27,7 @@ As a challenge (and to satisfy my appetite for remaking game mechanics) I made a
 
 I got part of the base mechanics working, but my fairly limited C# experience ended up as a blocker. I'd love to come back and pick this project back up again.
 
-## <> (Dreams - PS4)
+## ⃟ (Dreams - PS4)
 
 ![](https://img.shields.io/badge/Status-Finished-green.svg)
 
