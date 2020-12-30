@@ -8,8 +8,6 @@
 
 [![](https://raw.githubusercontent.com/mrbeardy/mrbeardy/main/gifs/anni.gif)](https://www.youtube.com/watch?v=hQBMqvPvkPM)
 
-![](https://raw.githubusercontent.com/mrbeardy/mrbeardy/main/gifs/anni.gif)
-
 Anni is a short story-game I created as a One-year anniversary present for my Girlfriend. 
 
 In the game, you play as Anni the Fox, exploring the world and uncovering different "moments" that play out as a timeline of momentous events throughout our relationship.
