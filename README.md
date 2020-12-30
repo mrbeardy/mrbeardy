@@ -14,6 +14,18 @@ Anni was a one-year anniversary present for my girlfriend. In the game, you play
 
 The video is from an early demo recorded during development. The final product had an intro screen and voice-overs, which gave me the chance to experiment with story-telling and different Unity features such as Cinemachine and Timelines.
 
+## Map Systm
+![](https://img.shields.io/badge/Status-On%20hold-orange.svg)
+![](https://img.shields.io/badge/Project%20released%3F-Not%20yet-orange.svg)
+
+![](https://raw.githubusercontent.com/mrbeardy/mrbeardy/main/img/map_system.png)
+
+As a challenge to release something on the Unity Asset Store, I set out to create a Map System for Unity.
+
+The project became fairly more complicated than I'd initially anticipated, and after encountering a strange bug (that caused errors to appear in the console whenever scripts were recompiled while the in-editor game was running) I paused the project.
+
+I'm proud of what I ended up with, and would ultimately like to come back to it and release it, but it'll require rewriting and updating with things I've learned since I was working on the project.
+
 ## Base Building Utility
 
 ![](https://img.shields.io/badge/Status-On%20hold-orange.svg)
