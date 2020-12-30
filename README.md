@@ -12,7 +12,7 @@ Anni was a one-year anniversary present for my girlfriend. In the game, you play
 
 The video is from an early demo recorded during development. The final product had an 
 
-## Base Building Utilty
+## Base Building Utility
 
 ![](https://img.shields.io/badge/Status-On%20hold-orange.svg)
 ![](https://img.shields.io/badge/Project%20released%3F-Not%20yet-orange.svg)
