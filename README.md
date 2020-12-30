@@ -8,6 +8,8 @@
 
 [![](https://raw.githubusercontent.com/mrbeardy/mrbeardy/main/gifs/anni.gif)](https://www.youtube.com/watch?v=hQBMqvPvkPM)
 
+[Demo on YouTube](https://www.youtube.com/watch?v=hQBMqvPvkPM)
+
 Anni was a one-year anniversary present for my girlfriend. In the game, you play as Anni the Fox and as you explore the world, you uncover a timeline of still-life memories from our relationship.
 
 The video is from an early demo recorded during development. The final product had an intro screen and voice-overs, which gave me the chance to experiment with story-telling and different Unity features such as Cinemachine and Timelines.
@@ -18,6 +20,8 @@ The video is from an early demo recorded during development. The final product h
 ![](https://img.shields.io/badge/Project%20released%3F-Not%20yet-orange.svg)
 
 [![](https://raw.githubusercontent.com/mrbeardy/mrbeardy/main/gifs/base-building.gif)](https://www.youtube.com/watch?v=86XUdS2wcSY)
+
+[Demo on YouTube](https://www.youtube.com/watch?v=86XUdS2wcSY)
 
 This was a simple base building utility I was working on as an experiment after playing No Mans Sky. I never ended up doing anything with it, but I may come back to it in the future and pick it back up as a package.
 
