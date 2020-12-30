@@ -8,6 +8,8 @@
 
 [![](https://media.giphy.com/media/PeNZvOboV4XyScTD2W/giphy.gif)](https://www.youtube.com/watch?v=hQBMqvPvkPM)
 
+![](https://giphy.com/embed/PeNZvOboV4XyScTD2W)
+
 Anni is a short story-game I created as a One-year anniversary present for my Girlfriend. 
 
 In the game, you play as Anni the Fox, exploring the world and uncovering different "moments" that play out as a timeline of momentous events throughout our relationship.
