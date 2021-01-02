@@ -6,7 +6,7 @@ Here you'll find some of the projects I've been working on. My aim is to release
 
 ### Unity Packages
 
-- [Toolbox](https://github.com/mrbeardy/UnityPackage-ToolBox) - A utility and productivity package.
+- [Sonic Screwdriver](https://github.com/mrbeardy/UnityPackage-SonicScrewdriver) - A utility and productivity package that aims to make your life easier.
 
 ## Anni
 ![](https://img.shields.io/badge/Status-Finished-green.svg)
